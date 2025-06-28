@@ -1,0 +1,21 @@
+.input-label {
+  color: white;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  margin: 0;
+}
+
+.employment-heading {
+  color: white;
+}
+
+#employmentType {
+  margin-right: 15px;
+}
