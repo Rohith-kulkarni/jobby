@@ -1,0 +1,39 @@
+.links {
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+}
+
+.navigator {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2%;
+  width: 100;
+  background-color: #272727;
+  box-sizing: border-box;
+}
+
+li {
+  list-style-type: none;
+  /* margin-left: 0; */
+  padding: 10px;
+}
+
+.links-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-left: 0;
+  list-style-type: none;
+}
+
+.logout-btn {
+  background-color: #6366f1;
+  color: white;
+  border: none;
+  padding: 15px 50px;
+  border-radius: 4px;
+  cursor: pointer;
+}
